@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\navee\AndroidStudioProjects\SmartRoom\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\navee\AndroidStudioProjects\SmartRoom\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_691c3be941d56f532541e4588d72333fe7445c23\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\navee\.android\build-cache\98417609d5315039f48717a714c4587bf1e6825f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a70cdeeea9b109cfc5cbf5afef1203d350fb9df">
+        <dex dex="C:\Users\navee\AndroidStudioProjects\SmartRoom\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_de8215c8a9c80b03be6e7868f7e2b8652c7f32bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\navee\AndroidStudioProjects\SmartRoom\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9213e46a3d94a44adba20345bb6b13a165959f1b">
+        <dex dex="C:\Users\navee\AndroidStudioProjects\SmartRoom\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6fe03d2e14a82a98ed0ffd22f6d61a7609fd10f2\classes.dex" />
+    </item>
+
+</items>
